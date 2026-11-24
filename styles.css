@@ -15,11 +15,11 @@ button {
   cursor: pointer;
 }
 
-.split-container {
+#split-container {
   display: flex;
   gap:20px;
 }
 
-.right-side, .left-side {
+#right-side, #left-side {
   flex: 1;
 }
