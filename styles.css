@@ -14,3 +14,12 @@ button {
   border-radius: 6px;
   cursor: pointer;
 }
+
+.split-container {
+  display: flex;
+  gap:20px;
+}
+
+.right-side, .left-side {
+  flex: 1;
+}
