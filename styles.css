@@ -17,9 +17,12 @@ button {
 
 #split-container {
   display: flex;
-  gap:20px;
+  gap: 20px;
+  width: 100%;
+  max-width: 1000px;
 }
 
-#right-side, #left-side {
+#left-side, #right-side {
   flex: 1;
+  text-align: center;
 }
