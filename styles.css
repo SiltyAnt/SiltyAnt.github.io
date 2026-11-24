@@ -1,0 +1,14 @@
+body {
+  align-items: center;
+  font-family: Oswald, sans-serif;
+  line-height: 1.5;
+}
+
+button {
+  background-color: #2563eb;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
